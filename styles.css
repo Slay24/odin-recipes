@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(204, 245, 240);
+}
+
+body {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.title-main {
+  font-size: 80px;
+}
+
+.recipe-item {
+  text-align: left;
+  font-size: 30px;
+}
